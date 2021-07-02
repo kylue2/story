@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hohohoho
-=======
 nami
->>>>>>> alien
+
